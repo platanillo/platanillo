@@ -1,73 +1,55 @@
 # Hello [👋](https://patorjk.com/software/taag/#p=testall&f=Dancing%20Font&t=Ascii), I'm [Your Name]
 
 ```                                                                                     
-  /$$$$$$                      /$$ /$$
- /$$__  $$                    |__/|__/
-| $$  \ $$  /$$$$$$$  /$$$$$$$ /$$ /$$
-| $$$$$$$$ /$$_____/ /$$_____/| $$| $$
-| $$__  $$|  $$$$$$ | $$      | $$| $$
-| $$  | $$ \____  $$| $$      | $$| $$
-| $$  | $$ /$$$$$$$/|  $$$$$$$| $$| $$
-|__/  |__/|_______/  \_______/|__/|__/
+ 
+ /$$$$$$$  /$$             /$$                         /$$ /$$ /$$          
+| $$__  $$| $$            | $$                        |__/| $$| $$          
+| $$  \ $$| $$  /$$$$$$  /$$$$$$    /$$$$$$  /$$$$$$$  /$$| $$| $$  /$$$$$$ 
+| $$$$$$$/| $$ |____  $$|_  $$_/   |____  $$| $$__  $$| $$| $$| $$ /$$__  $$
+| $$____/ | $$  /$$$$$$$  | $$      /$$$$$$$| $$  \ $$| $$| $$| $$| $$  \ $$
+| $$      | $$ /$$__  $$  | $$ /$$ /$$__  $$| $$  | $$| $$| $$| $$| $$  | $$
+| $$      | $$|  $$$$$$$  |  $$$$/|  $$$$$$$| $$  | $$| $$| $$| $$|  $$$$$$/
+|__/      |__/ \_______/   \___/   \_______/|__/  |__/|__/|__/|__/ \______/ 
+                                                                            
+
                                       
 ```
 
 <br>
 
 ## 🚀 About Me
-I have a great passion for [mention your professional interests] and a strong curiosity for [specific fields like web development, graphic design, medicine, etc.].  
+I have a great passion for music and medicine and a strong curiosity for astronomy.  
 I'm always eager to learn and improve my skills. This is my portfolio where I'll share my projects and progress.  
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
 
 <br>
 
 ‎
-## 🌱 I'm currently learning
-- Markdown and effective documentation
-- Version control with Git and GitHub
-- [Other technologies/topics]
 
 <br>
 
 ## 🎓 My Education
 
-- **[Institution Name]** – [Year]  
-- **[Certification Name]** – [Platform or Institution]  
-- **[Certification Name]** – [Platform or Institution]
+- **Reggio Emilia** – [Year]  
+
 
 <br>
 
 ## 🎯 My Career Roadmap  
 
 🟡 **Short-Term Goals (0-6 months)**  
-- [ ] [Example: Learn Python and Git]  
-- [ ] [Example: Build my first web development project]  
+- [ ] Learn more music theory 
+- [ ] Aprove first and second term 
 
 🟠 **Mid-Term Goals (6-12 months)**  
-- [ ] [Example: Contribute to an open-source project]  
-- [ ] [Example: Obtain a cybersecurity certification]  
+- [ ] Pass eleventh grade
+- [ ] Record my first music album
 
 🔴 **Long-Term Goals (+1 year)**  
-- [ ] [Example: Get an internship or job in tech]  
-- [ ] [Example: Develop a software that helps the community]  
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+- [ ] Achive all my goals
 
 <br>
 
-## ⚡ My Skills
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Teamwork 🤝 
-▓▓▓▓▓▓▓░░░░░░░░░░  Problem-solving 🧩 
-▓▓▓▓░░░░░░░░░░░░░  Critical thinking 💡 
-▓▓░░░░░░░░░░░░░░░  Effective communication 💬 
-```
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
 
 <br>
   
